@@ -8,6 +8,7 @@ langchain-mcp-adapters
 
 # Document loaders & Vector stores (RAG)
 pypdf>=4.0.0
+fonttools>=4.40.0
 faiss-cpu>=1.8.0
 
 # Search tools & HTTP requests
